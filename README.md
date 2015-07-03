@@ -1,2 +1,2 @@
-Development has moved to (SciRuby/rb-gsl)[https://github.com/SciRuby/rb-gsl]!
+Development has moved to [SciRuby/rb-gsl](https://github.com/SciRuby/rb-gsl)!
 
